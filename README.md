@@ -1,6 +1,8 @@
 # movie-review
 This is a website for movie reviews, the purpose of which is to give movie lovers a chance to post movie reviews. And it also has the function of playing movies.
 ![e8f6072763f9936410fe476af693d6b](https://github.com/Yilan1116/movie-review/assets/119823936/725ed2d4-eac4-4658-8cb9-6993c10d53a5)
+# Technology Stack：
+Java Spring Boot, React, and MongoDB
 
 # Foundation
 1. Register and login
